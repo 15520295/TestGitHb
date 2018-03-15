@@ -14,6 +14,12 @@ public class MainActivity extends AppCompatActivity {
         Chi chi = new Chi();
         // chi commit 1
         // Huy commit 1
+        // chi commit 2
+    }
+
+    public static void Chi_commit2()
+    {
+
     }
 
     public static void Huy_commit1() {
