@@ -15,10 +15,15 @@ public class MainActivity extends AppCompatActivity {
         // chi commit 1
         // Huy commit 1
         // chi commit 2
+        // huy modul 1
     }
 
-    public static void Chi_commit2()
-    {
+    public static void Chi_commit2() {
+
+        // Huy commit 2
+    }
+
+    public static void Huy_commit2() {
 
     }
 
