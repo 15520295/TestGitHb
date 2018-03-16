@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         /////// chi Modul2
 
         // huy commit6
+        /////// chi Modul2
 
         // huy commit6
         // huy commit 7
