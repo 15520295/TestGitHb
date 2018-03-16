@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
         //huy commit 8
         // huy commit 9
         /////// chi Modul2
+
+        // huy commit6
     }
 
     public static void Chi_commit2() {
